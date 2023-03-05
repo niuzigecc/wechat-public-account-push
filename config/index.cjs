@@ -55,7 +55,7 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: 'olURh5yZ0Q7trx8hlbd5UOpFSsl4',
+      name: '狗狗',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'olURh5yZ0Q7trx8hlbd5UOpFSsl4',
     }
